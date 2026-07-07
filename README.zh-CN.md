@@ -39,14 +39,6 @@ MiniCode 围绕一个 terminal-first agent loop 构建：
 
 整个项目有意保持紧凑，让主控制流、工具模型和 TUI 行为更容易理解和扩展。
 
-## 多语言版本
-
-- TypeScript（本仓库）：[MiniCode](https://github.com/LiuMengxuan04/MiniCode)
-- Rust 版本：[MiniCode-rs](https://github.com/harkerhand/MiniCode-rs/tree/master)
-- Python 版本：[MiniCode-Python](https://github.com/QUSETIONS/MiniCode-Python)
-- Go 版本：[MiniCode-go](https://github.com/ssbsunshengbo/MiniCode)
-- Java 版本：[MiniCode4j](https://github.com/hobbescalvin414-tech/minicode4j/tree/feat/default-ts-ui)
-
 ## 产品展示页
 
 - 在浏览器中打开 [docs/index.html](./docs/index.html)，即可查看可视化产品介绍页面。
