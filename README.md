@@ -39,14 +39,6 @@ MiniCode is built around a practical terminal-first agent loop:
 
 The project is intentionally compact, so the control flow, tool model, and TUI behavior remain easy to understand and extend.
 
-## Multi-language Versions
-
-- TypeScript (this repo): [MiniCode](https://github.com/LiuMengxuan04/MiniCode)
-- Rust version: [MiniCode-rs](https://github.com/harkerhand/MiniCode-rs/tree/master)
-- Python version: [MiniCode-Python](https://github.com/QUSETIONS/MiniCode-Python)
-- Go version: [MiniCode-go](https://github.com/ssbsunshengbo/MiniCode)
-- Java version: [MiniCode4j](https://github.com/hobbescalvin414-tech/minicode4j/tree/feat/default-ts-ui)
-
 ## Product Showcase Page
 
 - Open [docs/index.html](./docs/index.html) in a browser for a visual product overview.
