@@ -39,11 +39,6 @@ MiniCode 围绕一个 terminal-first agent loop 构建：
 
 整个项目有意保持紧凑，让主控制流、工具模型和 TUI 行为更容易理解和扩展。
 
-## 产品展示页
-
-- 在浏览器中打开 [docs/index.html](./docs/index.html)，即可查看可视化产品介绍页面。
-- GitHub Pages 推荐访问地址：`https://liumengxuan04.github.io/MiniCode/`
-
 ## MiniCode优势
 
 MiniCode 适合你，如果你想要：
