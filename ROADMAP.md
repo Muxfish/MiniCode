@@ -140,17 +140,3 @@ MiniCode 现在已经可以通过 MCP 自我扩展，所以内置 `WebFetch` / `
 ### 13. Prompt caching
 
 值得后续探索，尤其是在 context accounting 和 provider integration 更成熟之后。
-
-## 贡献说明
-
-如果你希望围绕这些方向提交 PR，请尽量：
-
-- 优先做聚焦型 PR
-- 保持实现轻量
-- 尽量与 Claude Code 的设计方向保持一致
-- 在 PR 中说明验证方式
-
-参见：
-
-- [中文贡献规范](./CONTRIBUTING_ZH.md)
-- [Contribution Guidelines](./CONTRIBUTING.md)
