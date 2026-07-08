@@ -21,8 +21,6 @@
   一个轻量且高效的编码工具。为速度而生，为简洁而建。
 </p>
 
-[English](./README.md) | [详细使用指南](./USAGE_ZH.md) | [DeepWiki](https://deepwiki.com/LiuMengxuan04/MiniCode) | [架构说明](./ARCHITECTURE_ZH.md) | [贡献规范](./CONTRIBUTING_ZH.md) | [路线图](./ROADMAP_ZH.md) | [License](./LICENSE)
-
 MiniCode 是一个面向本地开发工作流的轻量级终端编码助手。
 
 它用更小的实现体量，提供类 Claude Code 的工作流体验和架构思路，因此很适合学习、实验，以及继续做自己的定制化开发。
